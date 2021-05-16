@@ -1,2 +1,2 @@
-# Infytel-Cloud-Server
-Cloud Config Server for Infytel
+# UserMS-Cloud-Server
+Cloud Config Server for UserMS
